@@ -46,7 +46,7 @@ public class Ejercicio04 {
 		System.out.println("");
 		System.out.println("Digite el valor a descontar del empleado:");
 		desc = entrada.nextFloat();
-		
+		System.out.println("");
 		salariofn = salario - desc;
 		System.out.println("_____$$$$$$$$____");
 		

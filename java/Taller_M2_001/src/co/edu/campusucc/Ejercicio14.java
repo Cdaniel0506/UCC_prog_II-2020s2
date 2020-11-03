@@ -28,7 +28,7 @@ public class Ejercicio14 {
 		System.out.println("|                                       ________++++++00CDCDCDCD______	 |");
 		System.out.println("|::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|");
 		System.out.println("__________$$$__________$$$__________$$$__________$$$__________$$$______$$$");
-		
+		System.out.println("");
 		
 		System.out.println(":::::::Problema de Embarcaciones:::::::");
 		

@@ -29,7 +29,7 @@ public class Ejercicio12 {
 		System.out.println("|::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|");
 		System.out.println("__________$$$__________$$$__________$$$__________$$$__________$$$______$$$");
 		
-		
+		System.out.println("");
 		System.out.println(":::::Caracol, Un ciempies y un gusano.:::::::");
 		System.out.println("");
 		System.out.println("Problema de muro de 10 metros");

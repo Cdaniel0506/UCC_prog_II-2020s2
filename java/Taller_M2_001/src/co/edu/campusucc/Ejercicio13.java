@@ -29,7 +29,7 @@ public class Ejercicio13 {
 		System.out.println("|::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|");
 		System.out.println("__________$$$__________$$$__________$$$__________$$$__________$$$______$$$");
 		
-		
+		System.out.println("");
 		System.out.println("::::Calvin y Hobbes:::::");
 		System.out.println("");
 		double unid1,unid2,unid3;

@@ -36,6 +36,7 @@ public class Ejercicio05 {
 		System.out.println(":::::Devolucion de saldo:::::");
 		System.out.println("Digite el valor del producto:");
 		costo = entrada.nextFloat();
+		System.out.println("");
 		System.out.println("Digite el valor a pagar:");
 		d = entrada.nextFloat();
 		System.out.println("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");

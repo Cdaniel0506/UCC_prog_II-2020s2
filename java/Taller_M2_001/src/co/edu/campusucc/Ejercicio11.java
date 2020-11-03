@@ -29,7 +29,7 @@ public class Ejercicio11 {
 		System.out.println("|::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|");
 		System.out.println("__________$$$__________$$$__________$$$__________$$$__________$$$______$$$");
 		
-		
+		System.out.println("");
 		System.out.println("::::::Absolutin:::::");
 		System.out.println("Programa para calcular un valor absoluto.");
 		

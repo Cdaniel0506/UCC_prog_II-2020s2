@@ -45,7 +45,7 @@ public class Ejercicio08 {
 		vhora= entrada.nextFloat();
 		System.out.println("Digite el valor a pagar:");
 		salar = entrada.nextFloat();
-		
+		System.out.println("");
 		mult =(horasx * vhora)*50 /100;
 		mult1= mult + salar;
 		seg=(salar*12)/100;

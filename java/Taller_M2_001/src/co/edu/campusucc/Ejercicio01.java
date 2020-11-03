@@ -35,6 +35,7 @@ public class Ejercicio01 {
 		System.out.println("Programa para determinar un numero al cubo");
 		System.out.println("");
 		System.out.println("Por favor ingrese el numero:");
+		System.out.println("");
 		numero = entrada.nextInt();
 		System.out.println("El cubo del numero :"+ numero + "|es:" + numero * numero * numero);
 	}

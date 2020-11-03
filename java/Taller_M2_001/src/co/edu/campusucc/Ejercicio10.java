@@ -43,7 +43,7 @@ public class Ejercicio10 {
 		cod=entrada.nextFloat();
 		System.out.println("Digite las horas trabajadas de "+empleado+":");
 		hora= entrada.nextFloat();
-		
+		System.out.println("");
 		System.out.println("Digite el valor equivalente a (1)Una hora laboral:");
 		vhora= entrada.nextFloat();
 		System.out.println("Digite el valor a pagar:");

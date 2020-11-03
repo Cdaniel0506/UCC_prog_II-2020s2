@@ -39,6 +39,7 @@ public class Ejercicio06 {
 		System.out.println("Programa para calcular el salario del empleado mas las horas"
 				+ "trabajadas por el empleado.");
 		System.out.println("");
+		System.out.println("");
 		System.out.println("Digite el nombre del empleado:");
 		empleado = entrada.next();
 		System.out.println("Digite las horas trabajadas de "+empleado+":");

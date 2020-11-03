@@ -44,7 +44,7 @@ public class Ejercicio02 {
 		mult = numero1 * numero2;
 		prom =( numero1 + numero2) / 2;
 			
-		
+		System.out.println("");
 		System.out.println("La suma es:"+suma);
 		System.out.println("La resta es:"+ resta);
 		System.out.println("La multiplicacion es :"+ mult);

@@ -45,7 +45,7 @@ public class Ejercicio07 {
 		min = entrada.nextFloat();
 		System.out.println("Digite las paginas a calcular por minutos: ");
 		pag = entrada.nextFloat();
-		
+		System.out.println("");
 		ppagh =hora *30;
 		ppagm =min / 2 ; 
 		ppag = pag * 2;

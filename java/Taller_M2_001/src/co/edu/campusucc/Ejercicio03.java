@@ -30,7 +30,7 @@ public class Ejercicio03 {
 		System.out.println("|::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|");
 		System.out.println("__________$$$__________$$$__________$$$__________$$$__________$$$______$$$");
 		
-		
+		System.out.println("");
 		float suma,porc1,porc2,porc3;
 		float not1, not2, not3;
 		System.out.println("Programa para calcular 3 notas, teniendo en cuenta que cada nota tiene un porcentaje");
